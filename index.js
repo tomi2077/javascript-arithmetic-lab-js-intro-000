@@ -26,14 +26,5 @@ function makeInt(n){
   return parseInt(n, 10);
 }
 
-function makeInt(n){
-  number = parseInt(n, 10);
-  return number;
-}
-
-function makeInt(n){
-  number = parseInt("n");
-  return number
-}
 
 
