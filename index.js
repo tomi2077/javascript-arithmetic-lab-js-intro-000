@@ -33,7 +33,8 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  
+  number = parseInt("n");
+  return number
 }
 
 
